@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClimbCloud", "Assembly-CSharp.csproj", "{16EB93F7-CE20-D290-4F2B-0758B19E07CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16EB93F7-CE20-D290-4F2B-0758B19E07CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16EB93F7-CE20-D290-4F2B-0758B19E07CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16EB93F7-CE20-D290-4F2B-0758B19E07CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16EB93F7-CE20-D290-4F2B-0758B19E07CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
